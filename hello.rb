@@ -1,1 +1,1 @@
-Hello,Rubby,World
+Hello,Rubby
